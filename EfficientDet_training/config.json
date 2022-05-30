@@ -1,0 +1,14 @@
+{
+    "project_name": "lentil",
+    "data_version": "v1",
+    "model_version": "v1",
+    "dispaly_format": "letter",
+    "test_split": 0.2,
+    "train_steps": 10000,
+    "eval_steps": 500,
+    "threshold": 0.5,
+    "remove_anomalies": "False",
+    "anomalous_factor": 20,
+    "test_images": [],
+    "description": "The model is trained with data version v1"
+}
